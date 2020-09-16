@@ -1,0 +1,34 @@
+[
+    {
+        "nombre" : "Aplicaciones Web",
+        "examen" : [
+            {
+                "titulo" : "Examen evaluación continua",
+                "nota" : 10,
+                "fecha": "25/05/2020",
+                "entregado": 1
+            },
+            {
+                "titulo" : "Examen final",
+                "nota" : 10,
+                "fecha": "25/06/2020",
+                "entregado": 0
+            }
+        ],
+        "entregas":[
+            {
+                "nombre": "Práctica Vuetify",
+                "nota": -1,
+                "fecha": "25/05/2020"
+            }
+        ],
+        "recursos":[
+            {
+                "nombre":"Teoria Vuetify",
+                "url": "../components/wuolah-free-RESUMEN.pdf"
+            }
+        ]
+
+    }
+    
+]
